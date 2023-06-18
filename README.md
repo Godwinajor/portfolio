@@ -1,14 +1,6 @@
-# portfolio
- My portfolio <br>
-[![Netlify Status](https://api.netlify.com/api/v1/badges/599fc819-e77e-4d57-98c3-a65bfe2c064d/deploy-status)](https://app.netlify.com/sites/sameersw/deploys) <br>
-https://sameerasw.me
-https://sameerasw.netlify.app/
-
-<br>
-<h2> Preview </h2>
-
-![image](https://github.com/sameerasw/portfolio/blob/5a1f0b1dbb8ca089f94bce522791ed772efe4a29/repo-data/demo.gif)
----
-![image](https://user-images.githubusercontent.com/68902530/230754483-25e080d7-1b0f-4220-a3cf-37b88d129658.png)
-
-[Template](https://bootstrapmade.com/free-html-bootstrap-template-my-resume/)
+THIS PORTFOLIO IS A SUMMARY FOR 2023
+My name is Godwin Eshidenang Ajor I held from Gakem-Bekwarra LGA of Cross River State Nigeria.I,m currently udergoing my First Degree programme in Civil Engineering in the University of Cross River State [UNICROSS] formerly called Cross River University of Technology [CRUTECH].
+I attended the Community Primary School Atibulum between 2002-2008 when i obtained my First School Leaving Certificate [FSLC]. During these period, I have served in the capacity as the class monitor from primary 1 -primary 5 and was made the overall Senior Boy in primary 6. I proceeded to Comprehensive Secondary School Gakem between 2008 t0 2014 and obtained my SSCE. In my secondary school era, I held the office of the class monitor from jss1, jss2, jss3 and ss1 after which I became the school time regulatory Prefect in ss1 2nd term. I held the office till my SS2 2nd term where I became the SENIOR PREFECT. I piloted and made the name as the best behaved, best SENIOR PREFECT EVER HAD and with numerous achievement for the school and for myself.I represented the school in various competitions such as
+The Governor Science and Mathematics Competitions (senior & junior categories)
+The National Science Olympiad (senior and junior categories)
+The Cowbell National Mathematics competion in both senior and junior categories.
